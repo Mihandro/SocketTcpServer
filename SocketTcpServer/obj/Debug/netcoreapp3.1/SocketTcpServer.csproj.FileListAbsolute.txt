@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\SocketTcpServer\SocketTcpServer\bin\Debug\netcoreapp3.1\SocketTcpServer.exe
+C:\Users\user\source\repos\SocketTcpServer\SocketTcpServer\bin\Debug\netcoreapp3.1\SocketTcpServer.deps.json
+C:\Users\user\source\repos\SocketTcpServer\SocketTcpServer\bin\Debug\netcoreapp3.1\SocketTcpServer.runtimeconfig.json
+C:\Users\user\source\repos\SocketTcpServer\SocketTcpServer\bin\Debug\netcoreapp3.1\SocketTcpServer.runtimeconfig.dev.json
+C:\Users\user\source\repos\SocketTcpServer\SocketTcpServer\bin\Debug\netcoreapp3.1\SocketTcpServer.dll
+C:\Users\user\source\repos\SocketTcpServer\SocketTcpServer\bin\Debug\netcoreapp3.1\SocketTcpServer.pdb
+C:\Users\user\source\repos\SocketTcpServer\SocketTcpServer\obj\Debug\netcoreapp3.1\SocketTcpServer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\SocketTcpServer\SocketTcpServer\obj\Debug\netcoreapp3.1\SocketTcpServer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SocketTcpServer\SocketTcpServer\obj\Debug\netcoreapp3.1\SocketTcpServer.AssemblyInfo.cs
+C:\Users\user\source\repos\SocketTcpServer\SocketTcpServer\obj\Debug\netcoreapp3.1\SocketTcpServer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SocketTcpServer\SocketTcpServer\obj\Debug\netcoreapp3.1\SocketTcpServer.dll
+C:\Users\user\source\repos\SocketTcpServer\SocketTcpServer\obj\Debug\netcoreapp3.1\SocketTcpServer.pdb
+C:\Users\user\source\repos\SocketTcpServer\SocketTcpServer\obj\Debug\netcoreapp3.1\SocketTcpServer.genruntimeconfig.cache
